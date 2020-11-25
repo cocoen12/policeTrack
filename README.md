@@ -1,6 +1,6 @@
 # Police Track
 
-This repository provides implementation of police tracking
+This repository provides implementation of police tracking.
 
 ## Installation
 
